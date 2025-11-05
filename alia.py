@@ -1,4 +1,4 @@
-umur = 12, 23, 33
+#umur = 12, 23, 33
 #int
 
 # ini kelebihan angkanya
@@ -15,3 +15,11 @@ i = "a"
 
 laper = True
 # bool
+
+umur = 12
+if umur >50:
+    print('woy tua')
+elif umur <50 and umur >17:
+    print('dewasa korupsi')
+else:
+    print('aku kecil')
