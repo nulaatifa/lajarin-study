@@ -20,3 +20,5 @@ beratbadan = 45.5 #float
 sekolah = True #boolean
 a = "apel" #string
 angka = '5' #char
+
+# ini betul tapi curang

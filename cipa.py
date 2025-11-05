@@ -12,3 +12,5 @@ sudah_makan = True     # bool
 nama = "Cipa"          # str
 
 inisial = 'C'          # char
+
+# ini BETUL!

@@ -11,6 +11,7 @@ phi = 3.14
 
 i = "a"
 # char
+# HARUSNYA CHAR PAKE TANDA PETIK 1
 
 laper = True
 # bool

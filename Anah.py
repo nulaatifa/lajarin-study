@@ -5,4 +5,4 @@ perempuan = True #boolean
 nama = "anah" #string
 huruf = "a" #char
 
-# ini betul
+# char seharusnya pake tanda petik 1
